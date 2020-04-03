@@ -127,8 +127,9 @@ button#contact-me-btn:hover {
 }
 
 /* Main Section */
-main {
-    background: url(../assets/img/bg-hero-desktop.svg);
+main,
+footer {
+    background: url(../assets/img/bg-hero-desktop.svg) no-repeat;
 }
 
 div#content {
@@ -387,8 +388,9 @@ aside#mobile {
     }
 
     /* Main Section */
-    main {
-        background: url(../assets/img/bg-hero-mobile.svg);
+    main,
+    footer {
+        background: url(../assets/img/bg-hero-mobile.svg) no-repeat;
     }
 
     article {
