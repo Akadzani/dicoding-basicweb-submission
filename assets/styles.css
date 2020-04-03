@@ -75,7 +75,7 @@ h1#logo {
     display: none;
     height: 40px;
     width: 100%;
-    background: url(assets/img/menu.svg) no-repeat 100% center;
+    background: url(https://github.com/Akadzani/dicoding-basicweb-submisson/assets/img/menu.svg) no-repeat 100% center;
     cursor: pointer;
 }
 
@@ -128,7 +128,7 @@ button#contact-me-btn:hover {
 
 /* Main Section */
 main {
-    background: url(assets/img/bg-hero-desktop.svg);
+    background: url(https://github.com/Akadzani/dicoding-basicweb-submisson/assets/img/bg-hero-desktop.svg);
 }
 
 div#content {
@@ -388,7 +388,7 @@ aside#mobile {
 
     /* Main Section */
     main {
-        background: url(assets/img/bg-hero-mobile.svg);
+        background: url(https://github.com/Akadzani/dicoding-basicweb-submisson/assets/img/bg-hero-mobile.svg);
     }
 
     article {
